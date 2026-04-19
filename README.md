@@ -21,7 +21,7 @@ ML Engineer focused on building scalable AI systems and real-world applications
 
 ## 🌐 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-link" target="_blank">
+  <a href="https://www.linkedin.com/in/sailesh-saini-663b42257/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://leetcode.com/u/Sailesh38/" target="_blank">
