@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sailesh Kumar Saini</h1>
 
 <h3 align="center">
-ML Engineer focused on building scalable AI systems and real-world applications
+ML Engineer focused on building scalable AI systems and Real-world applications
 </h3>
 
 <p align="center">
