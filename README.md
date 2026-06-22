@@ -28,6 +28,19 @@
 ## 🚀 I don't just study technology.
 ## I build it. Patent it. Present it. Lead with it.
 
+```python
+sailesh = {
+    "name"      : "Sailesh Kumar Saini",
+    "degree"    : "MCA in Data Science @ DY Patil, Pune (2025-27)",
+    "patent"    : "Smart IoT Bin — Govt. of India ✅",
+    "research"  : "International Conference @ DY Patil (2026) ✅",
+    "ieee"      : "Active Member + KyberStrike Team ✅",
+    "certs"     : "20+ across Java, Python, Power BI & more ✅",
+    "flagship"  : "AttendAI — Face Recognition Attendance System",
+    "seeking"   : "SWE | AI/ML | Data Analytics roles 🚀"
+}
+```
+
 <br clear="right"/>
 
 ---
